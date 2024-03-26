@@ -1,0 +1,22 @@
+{
+  "name": "cypress-e2e",
+  "version": "1.0.0",
+  "description": "Cypress Automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arsh-git-hub/Cypress-E2E-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arsh-git-hub/Cypress-E2E-1/issues"
+  },
+  "homepage": "https://github.com/arsh-git-hub/Cypress-E2E-1#readme",
+  "dependencies": {
+    "cypress": "^13.7.0"
+  }
+}
